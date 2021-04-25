@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning Cypress.io and JavaScript
 - 👯 I’m looking to collaborate on any topics related to automation testing using Cypress
 - 🤔 I’m looking for any tips that can help me transition into a QA Role
+/*- :muscle: Other things */
