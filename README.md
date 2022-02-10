@@ -6,4 +6,4 @@
 - 🧠 I enjoy learning Cypress.io and JavaScript
 - Latest course I've completed is the Udemy course [Test automation with Cypress (intermediate)
 ](https://www.udemy.com/course/test-automation-with-cypress-intermediate/) from the Talking About Testing school.
-- Currently working on the course[Testing Automation with Cypress - Advanced](https://www.udemy.com/course/testing-automation-with-cypress-advanced/) and next week will culminate the Smashing Online Conference Front End Testing Cypress workshop with Gleb Bahmutov which is amazing! 👌
+- Currently working on completing the course [Testing Automation with Cypress - Advanced](https://www.udemy.com/course/testing-automation-with-cypress-advanced/) and next week will culminate the Smashing Online Conference Front End Testing Cypress workshop with Gleb Bahmutov which is amazing! 👌
