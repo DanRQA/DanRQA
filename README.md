@@ -6,4 +6,4 @@
 - I'm a newb to Software Testing with less that 6 months of actual on the job experience in my related field.  But I enjoy every minute of it!
 - 🧠 I enjoy learning Cypress.io and JavaScript
 - Latest courses I've completed are the Udemy course [Test automation with Cypress (intermediate)
-](https://www.udemy.com/course/test-automation-with-cypress-intermediate/) from the Talking About Testing school and [Testing Automation with Cypress - Advanced](https://www.udemy.com/course/testing-automation-with-cypress-advanced/)👌
+](https://www.udemy.com/course/test-automation-with-cypress-intermediate/) and [Testing Automation with Cypress - Advanced](https://www.udemy.com/course/testing-automation-with-cypress-advanced/)👌from Talking About Testing school.
