@@ -1,10 +1,11 @@
-# Hi there I'm Daniel 👋
-  
-  ## I work as a Quality Engineer at Solstice, currently reside in the Golden State and have been working remotely since 2018
-  
-- 🤟 ISTQB® Certified Tester, Foundation Level https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36161063
-- I consider myself a newb to Software Testing with a little over a year of actual on the job experience in my related field.  But I enjoy every minute of it!
-- 🧠 I enjoy learning Cypress.io and JavaScript
-- Latest course I've completed is from Test Automation University are the Udemy course [Cypress with Typescript
-](https://testautomationu.applitools.com/cypress-with-typescript/)👌
-- I'm currently learning how to test at the service level because I've found testing at UI level is very brittle 😤, and it gives me an opportunity to learn new topics and expand my testing tool kit.
+# Hi there, I'm Daniel! 👋
+
+## I'm a Software Quality Engineer and a remote work enthusiast, embracing the remote lifestyle since 2018.
+
+- 🤟 I take pride in holding the ISTQB® Certified Tester, Foundation Level [certification](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/36161063).
+- 🚀 While I may still be a newcomer in the field of Software Testing with just over 2 years of hands-on experience, I'm absolutely passionate about every step of this exciting journey!
+- 🧠 My current focus is on immersing myself in the fascinating realm of React Testing Library.
+- 📚 Recently, I successfully completed an outstanding course on [React Testing Library](https://www.udemy.com/course/react-testing-library/) on Udemy – I highly recommend it! 👌
+- 🌟 My latest endeavor? Delving into service-level testing. Let's be honest, UI testing can be quite challenging 😤, and I see this as an opportunity to explore new concepts and expand my testing toolkit.
+- 🏖️ On sunny days, you'll spot me at the beach, soaking up the sun and enjoying the relaxing vibes of the ocean.
+- 💪 I'm also a CrossFit enthusiast, always up for a challenging workout that pushes my limits.
